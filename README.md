@@ -1,14 +1,8 @@
-<a name="readme-top"></a>
-
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- 
-  <br/>
+<a name="readme-top"></a>  
 
   <h3><b>Hellow Microverse</b></h3>
 
-</div>
+
 
 <!-- TABLE OF CONTENTS -->
 
@@ -17,8 +11,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
+    - [Key Features](#key-features) 
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -72,15 +65,6 @@ HTML and css and tested with linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> https://github.com/samuelkinyanjui/Hello-Microverse
-
-- [Live Demo Link](https://github.com/samuelkinyanjui/Hello-Microverse)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
