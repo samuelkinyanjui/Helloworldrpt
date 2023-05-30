@@ -36,7 +36,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Pesersonal profile website <a name="about-project"></a>
+# 📖 Hello-Microverse <a name="about-project"></a>
 
 > This is website on how to create greetings website.
 
@@ -66,8 +66,6 @@ HTML and css and tested with linters
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **The project display hellow microverse**
 - **Bult with pure HTML**
 - **Bult using CSS**
@@ -96,8 +94,8 @@ HTML and css and tested with linters
 
 
 ### Prerequisites
-Node
-code editor 
+>Node Js
+>code editor 
 
 
 ### Setup
@@ -133,7 +131,7 @@ Use amazon or inhouse hosting for deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
+
 
 ## 👥 Authors <a name="authors"></a
 > Microverse,Samuel
@@ -147,11 +145,11 @@ Use amazon or inhouse hosting for deployment
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 >Android based site
 I will addedmore android and IOS supported tempalte
@@ -178,7 +176,7 @@ Use the project to buld your own website
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -188,7 +186,7 @@ I would like to thank...all microverse student
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
+
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
