@@ -191,5 +191,4 @@ you just clone it
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-https://github.com/samuelkinyanjui/Helloworldrpt/blob/main/LICENSE
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
